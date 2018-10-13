@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_HotNews"
+        android:title="Hot News"
+        android:icon="@drawable/icon_fire" />
+
+    <item
+        android:id="@+id/action_Category"
+        android:title="Category"
+        android:icon="@drawable/icon_fire"/>
+
+    <item
+        android:id="@+id/action_NewsMap"
+        android:title="News Map"
+        android:icon="@drawable/icon_fire"/>
+
+    <item
+        android:id="@+id/action_Music"
+        android:title="Music"
+        android:icon="@drawable/icon_fire"/>
+
+    <item
+        android:id="@+id/action_Setting"
+        android:title="Setting"
+        android:icon="@drawable/icon_fire"/>
+</menu>
